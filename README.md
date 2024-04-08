@@ -1,3 +1,5 @@
+A VEEEEERY old project so i dont remember why i made it
+
 # GitHubJumper
 A small tray program that let you jump to your own and starred repositories in a few clicks
 
